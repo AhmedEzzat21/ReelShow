@@ -6,8 +6,23 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		8BC3B13A2D84EAE000492C25 /* jeep_02.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 8BC3B1372D84EAE000492C25 /* jeep_02.mp4 */; };
+		8BC3B13B2D84EAE000492C25 /* bronco_2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 8BC3B1352D84EAE000492C25 /* bronco_2.mp4 */; };
+		8BC3B13C2D84EAE000492C25 /* jeep_03.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 8BC3B1382D84EAE000492C25 /* jeep_03.mp4 */; };
+		8BC3B13D2D84EAE000492C25 /* jeep_01.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 8BC3B1362D84EAE000492C25 /* jeep_01.mp4 */; };
+		8BC3B13E2D84EAE000492C25 /* bronco_1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 8BC3B1342D84EAE000492C25 /* bronco_1.mp4 */; };
+		8BC3B13F2D84EAE000492C25 /* mario_01.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 8BC3B1392D84EAE000492C25 /* mario_01.mp4 */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		8BC3B10B2D84EA4800492C25 /* RawajAssignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RawajAssignment.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8BC3B1342D84EAE000492C25 /* bronco_1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = bronco_1.mp4; sourceTree = "<group>"; };
+		8BC3B1352D84EAE000492C25 /* bronco_2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = bronco_2.mp4; sourceTree = "<group>"; };
+		8BC3B1362D84EAE000492C25 /* jeep_01.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = jeep_01.mp4; sourceTree = "<group>"; };
+		8BC3B1372D84EAE000492C25 /* jeep_02.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = jeep_02.mp4; sourceTree = "<group>"; };
+		8BC3B1382D84EAE000492C25 /* jeep_03.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = jeep_03.mp4; sourceTree = "<group>"; };
+		8BC3B1392D84EAE000492C25 /* mario_01.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = mario_01.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +47,12 @@
 		8BC3B1022D84EA4800492C25 = {
 			isa = PBXGroup;
 			children = (
+				8BC3B1342D84EAE000492C25 /* bronco_1.mp4 */,
+				8BC3B1352D84EAE000492C25 /* bronco_2.mp4 */,
+				8BC3B1362D84EAE000492C25 /* jeep_01.mp4 */,
+				8BC3B1372D84EAE000492C25 /* jeep_02.mp4 */,
+				8BC3B1382D84EAE000492C25 /* jeep_03.mp4 */,
+				8BC3B1392D84EAE000492C25 /* mario_01.mp4 */,
 				8BC3B10D2D84EA4800492C25 /* RawajAssignment */,
 				8BC3B10C2D84EA4800492C25 /* Products */,
 			);
@@ -109,6 +130,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8BC3B13A2D84EAE000492C25 /* jeep_02.mp4 in Resources */,
+				8BC3B13B2D84EAE000492C25 /* bronco_2.mp4 in Resources */,
+				8BC3B13C2D84EAE000492C25 /* jeep_03.mp4 in Resources */,
+				8BC3B13D2D84EAE000492C25 /* jeep_01.mp4 in Resources */,
+				8BC3B13E2D84EAE000492C25 /* bronco_1.mp4 in Resources */,
+				8BC3B13F2D84EAE000492C25 /* mario_01.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
